@@ -1,5 +1,5 @@
 transaction_id,customer_id,product_name,transaction_date
-11,105,iPhone,2022-02-01
+11,105, iPhone,2022-02-01
 12,106,iPhone,2022-02-02
 13,107,AirPods,2022-02-03
 14,105,AirPods,2022-02-04
